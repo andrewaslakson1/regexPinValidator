@@ -1,0 +1,6 @@
+# Intellij files
+/.idea
+
+# Build files
+/target
+*.jar
